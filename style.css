@@ -1,5 +1,5 @@
 body{
-    background:url(https://i.postimg.cc/mZcs7hVq/ilustracao-de-fundo-abstrato-onda-prata-53876-81163.jpg)center center no-repeat fixed;
+    background:url(https://i.postimg.cc/NjRWpJT5/413884-cvetok-purpur-lepestki-rozovyj-fon-6299x5116-www-Gde-Fon-ru.jpg)center center no-repeat fixed;
     background-size:cover;
 }
 *{
@@ -13,13 +13,13 @@ body{
     --font-1: 'Indie Flower', cursive;
     --font-2: 'Archivo Narrow', sans-serif;
     --font-3: 'Frijole', cursive;
-    --marron-1: #322b1f;
-    --marron-2: #6a543f;
-    --marron-3: #94846f;
-    --cinza: #444;
-    --white: #fdfdfd;
+    --marron-1: #F781F3;
+    --marron-2: #F781F3;
+    --marron-3: #F710E0;
+    --cinza: #fffff;
+    --white: #FAF9FA;
     --gradient: repeating-linear-gradient(45deg, #fff, #fff 1px, transparent 1px, transparent 5px),
-        repeating-linear-gradient(-45deg, #fff, #fff 1px, transparent 1px, transparent 5px), #dfdfdf;
+        repeating-linear-gradient(-45deg, #fff, #fff 1px, transparent 1px, transparent 5px), #ffffff;
     --shadow: 0 0 0 5px var(--marron-2), 0 0 20px 12px rgba(0,0,0,.2);
 }
 a{
